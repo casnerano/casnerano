@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+### LeetCode stat
+[![LeetCode Stats](https://leetcard.jacoblin.cool/casnerano?theme=nord&font=Roboto)](https://leetcode.com/u/casnerano/)
+
 <!--
 **casnerano/casnerano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
